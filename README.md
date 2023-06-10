@@ -44,8 +44,8 @@ The command sudo setoolkit in the prompt gives menu with set prompt:
 
 ![7 7](https://github.com/Javith-farkhan/creating-a-backdoor-with-SET/assets/94296805/d55d8ae7-9533-4adf-9907-11258148b671)
 
+![Screenshot 2023-06-10 205428email](https://github.com/A-Thiyagarajan/creating-a-backdoor-with-SET/assets/118707693/36e58d14-58aa-4d70-bba6-d0768c7d86e7)
 
-![7 8](https://github.com/Javith-farkhan/creating-a-backdoor-with-SET/assets/94296805/cd50ce7e-5b84-4cd7-bb6f-f0caed7fdea9)
 
 
 ![7 9](https://github.com/Javith-farkhan/creating-a-backdoor-with-SET/assets/94296805/6a0d812e-0f5b-4ae7-b17e-d912fbf13f78)
@@ -56,4 +56,4 @@ The command sudo setoolkit in the prompt gives menu with set prompt:
 
 ## RESULT:
 
-The Social Engineering Toolkit (SET) is used to create backdoor is  examined successfully
+The Social Engineering Toolkit (SET) is used to create backdoor is  examined successfully.
